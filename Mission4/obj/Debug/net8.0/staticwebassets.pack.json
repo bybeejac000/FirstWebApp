@@ -1,10 +1,6 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\jakeb\\source\\repos\\Mission4\\Mission4\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Mission4.bundle.scp.css",
-      "PackagePath": "staticwebassets\\Mission4.xvlumugwch.bundle.scp.css"
-    },
-    {
       "Id": "C:\\Users\\jakeb\\source\\repos\\Mission4\\Mission4\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },

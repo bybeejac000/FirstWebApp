@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "PCzTQew5NakOA5Ok66WTNfQ7JJ/OwiTEpQUC14EAZMU=",
+  "Hash": "K0797LmoHzNIuECudATg/paqJF4yU9XeOC5sSQtrE9k=",
   "Source": "Mission4",
   "BasePath": "_content/Mission4",
   "Mode": "Default",
@@ -16,48 +16,6 @@
     }
   ],
   "Assets": [
-    {
-      "Identity": "C:\\Users\\jakeb\\source\\repos\\Mission4\\Mission4\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Mission4.styles.css",
-      "SourceId": "Mission4",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\jakeb\\source\\repos\\Mission4\\Mission4\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
-      "BasePath": "_content/Mission4",
-      "RelativePath": "Mission4#[.{fingerprint}]?.styles.css",
-      "AssetKind": "All",
-      "AssetMode": "CurrentProject",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "ScopedCss",
-      "AssetTraitValue": "ApplicationBundle",
-      "Fingerprint": "xvlumugwch",
-      "Integrity": "Tdihbt6wwvMvNVAdZ1u2m8smAitmoirJKYJsJ6HgkXo=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\jakeb\\source\\repos\\Mission4\\Mission4\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Mission4.styles.css"
-    },
-    {
-      "Identity": "C:\\Users\\jakeb\\source\\repos\\Mission4\\Mission4\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Mission4.bundle.scp.css",
-      "SourceId": "Mission4",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\jakeb\\source\\repos\\Mission4\\Mission4\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
-      "BasePath": "_content/Mission4",
-      "RelativePath": "Mission4#[.{fingerprint}]!.bundle.scp.css",
-      "AssetKind": "All",
-      "AssetMode": "Reference",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "ScopedCss",
-      "AssetTraitValue": "ProjectBundle",
-      "Fingerprint": "xvlumugwch",
-      "Integrity": "Tdihbt6wwvMvNVAdZ1u2m8smAitmoirJKYJsJ6HgkXo=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\jakeb\\source\\repos\\Mission4\\Mission4\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Mission4.bundle.scp.css"
-    },
     {
       "Identity": "C:\\Users\\jakeb\\source\\repos\\Mission4\\Mission4\\wwwroot\\css\\site.css",
       "SourceId": "Mission4",
@@ -136,8 +94,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "bhumcaovnt",
-      "Integrity": "z3dc50k9R2QyRS3hYiTZrA2RYHYi2bgR27Wizy6+WTk=",
+      "Fingerprint": "114k371gwo",
+      "Integrity": "mz9HCvwHc+DMTg8uxdUcPRCuL9dD5M10Z3G3Zyfq1GA=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\mainscript.js"
@@ -1396,8 +1354,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "s4d675gv26",
-      "Integrity": "BB1uWuyvfva1bjqF4cn41gCLuCrdKFjxI4fK887CmUQ=",
+      "Fingerprint": "8ny8ef2lx1",
+      "Integrity": "ZCv76iTrs1o31WveNxpACl4ApFTPzKx7N89AkMKOOcs=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\secondpage.html"
@@ -1672,7 +1630,7 @@
       ]
     },
     {
-      "Route": "js/mainscript.bhumcaovnt.js",
+      "Route": "js/mainscript.114k371gwo.js",
       "AssetFile": "C:\\Users\\jakeb\\source\\repos\\Mission4\\Mission4\\wwwroot\\js\\mainscript.js",
       "Selectors": [],
       "ResponseHeaders": [
@@ -1682,7 +1640,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "561"
+          "Value": "632"
         },
         {
           "Name": "Content-Type",
@@ -1690,11 +1648,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"z3dc50k9R2QyRS3hYiTZrA2RYHYi2bgR27Wizy6+WTk=\""
+          "Value": "\"mz9HCvwHc+DMTg8uxdUcPRCuL9dD5M10Z3G3Zyfq1GA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 05 Feb 2025 21:13:00 GMT"
+          "Value": "Wed, 05 Feb 2025 21:25:29 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1704,7 +1662,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "bhumcaovnt"
+          "Value": "114k371gwo"
         },
         {
           "Name": "label",
@@ -1712,7 +1670,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-z3dc50k9R2QyRS3hYiTZrA2RYHYi2bgR27Wizy6+WTk="
+          "Value": "sha256-mz9HCvwHc+DMTg8uxdUcPRCuL9dD5M10Z3G3Zyfq1GA="
         }
       ]
     },
@@ -1727,7 +1685,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "561"
+          "Value": "632"
         },
         {
           "Name": "Content-Type",
@@ -1735,11 +1693,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"z3dc50k9R2QyRS3hYiTZrA2RYHYi2bgR27Wizy6+WTk=\""
+          "Value": "\"mz9HCvwHc+DMTg8uxdUcPRCuL9dD5M10Z3G3Zyfq1GA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 05 Feb 2025 21:13:00 GMT"
+          "Value": "Wed, 05 Feb 2025 21:25:29 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1749,7 +1707,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-z3dc50k9R2QyRS3hYiTZrA2RYHYi2bgR27Wizy6+WTk="
+          "Value": "sha256-mz9HCvwHc+DMTg8uxdUcPRCuL9dD5M10Z3G3Zyfq1GA="
         }
       ]
     },
@@ -6592,8 +6550,8 @@
       ]
     },
     {
-      "Route": "Mission4.bundle.scp.css",
-      "AssetFile": "C:\\Users\\jakeb\\source\\repos\\Mission4\\Mission4\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Mission4.bundle.scp.css",
+      "Route": "secondpage.8ny8ef2lx1.html",
+      "AssetFile": "C:\\Users\\jakeb\\source\\repos\\Mission4\\Mission4\\wwwroot\\secondpage.html",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6602,93 +6560,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1126"
+          "Value": "883"
         },
         {
           "Name": "Content-Type",
-          "Value": "text/css"
+          "Value": "text/html"
         },
         {
           "Name": "ETag",
-          "Value": "\"Tdihbt6wwvMvNVAdZ1u2m8smAitmoirJKYJsJ6HgkXo=\""
+          "Value": "\"ZCv76iTrs1o31WveNxpACl4ApFTPzKx7N89AkMKOOcs=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 05 Feb 2025 15:54:56 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-Tdihbt6wwvMvNVAdZ1u2m8smAitmoirJKYJsJ6HgkXo="
-        }
-      ]
-    },
-    {
-      "Route": "Mission4.styles.css",
-      "AssetFile": "C:\\Users\\jakeb\\source\\repos\\Mission4\\Mission4\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Mission4.styles.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1126"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"Tdihbt6wwvMvNVAdZ1u2m8smAitmoirJKYJsJ6HgkXo=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 05 Feb 2025 15:54:56 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-Tdihbt6wwvMvNVAdZ1u2m8smAitmoirJKYJsJ6HgkXo="
-        }
-      ]
-    },
-    {
-      "Route": "Mission4.xvlumugwch.bundle.scp.css",
-      "AssetFile": "C:\\Users\\jakeb\\source\\repos\\Mission4\\Mission4\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Mission4.bundle.scp.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1126"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"Tdihbt6wwvMvNVAdZ1u2m8smAitmoirJKYJsJ6HgkXo=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 05 Feb 2025 15:54:56 GMT"
+          "Value": "Wed, 05 Feb 2025 21:25:50 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6698,60 +6582,15 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "xvlumugwch"
+          "Value": "8ny8ef2lx1"
         },
         {
           "Name": "label",
-          "Value": "Mission4.bundle.scp.css"
+          "Value": "secondpage.html"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-Tdihbt6wwvMvNVAdZ1u2m8smAitmoirJKYJsJ6HgkXo="
-        }
-      ]
-    },
-    {
-      "Route": "Mission4.xvlumugwch.styles.css",
-      "AssetFile": "C:\\Users\\jakeb\\source\\repos\\Mission4\\Mission4\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Mission4.styles.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1126"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"Tdihbt6wwvMvNVAdZ1u2m8smAitmoirJKYJsJ6HgkXo=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 05 Feb 2025 15:54:56 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "xvlumugwch"
-        },
-        {
-          "Name": "label",
-          "Value": "Mission4.styles.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-Tdihbt6wwvMvNVAdZ1u2m8smAitmoirJKYJsJ6HgkXo="
+          "Value": "sha256-ZCv76iTrs1o31WveNxpACl4ApFTPzKx7N89AkMKOOcs="
         }
       ]
     },
@@ -6766,7 +6605,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "872"
+          "Value": "883"
         },
         {
           "Name": "Content-Type",
@@ -6774,11 +6613,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"BB1uWuyvfva1bjqF4cn41gCLuCrdKFjxI4fK887CmUQ=\""
+          "Value": "\"ZCv76iTrs1o31WveNxpACl4ApFTPzKx7N89AkMKOOcs=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 05 Feb 2025 21:13:19 GMT"
+          "Value": "Wed, 05 Feb 2025 21:25:50 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6788,52 +6627,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-BB1uWuyvfva1bjqF4cn41gCLuCrdKFjxI4fK887CmUQ="
-        }
-      ]
-    },
-    {
-      "Route": "secondpage.s4d675gv26.html",
-      "AssetFile": "C:\\Users\\jakeb\\source\\repos\\Mission4\\Mission4\\wwwroot\\secondpage.html",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "872"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/html"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"BB1uWuyvfva1bjqF4cn41gCLuCrdKFjxI4fK887CmUQ=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 05 Feb 2025 21:13:19 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "s4d675gv26"
-        },
-        {
-          "Name": "label",
-          "Value": "secondpage.html"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-BB1uWuyvfva1bjqF4cn41gCLuCrdKFjxI4fK887CmUQ="
+          "Value": "sha256-ZCv76iTrs1o31WveNxpACl4ApFTPzKx7N89AkMKOOcs="
         }
       ]
     },
