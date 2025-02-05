@@ -19,3 +19,19 @@ build_property.MSBuildProjectDirectory = C:\Users\jakeb\source\repos\Mission4\Mi
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 8.0
 build_property.EnableCodeStyleSeverity = 
+
+[C:/Users/jakeb/source/repos/Mission4/Mission4/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jakeb/source/repos/Mission4/Mission4/Views/sub/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3Ncc3ViXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jakeb/source/repos/Mission4/Mission4/Views/sub/secondpage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3Ncc3ViXHNlY29uZHBhZ2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jakeb/source/repos/Mission4/Mission4/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 

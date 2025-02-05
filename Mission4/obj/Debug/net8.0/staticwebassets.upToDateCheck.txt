@@ -1,6 +1,7 @@
 wwwroot\css\site.css
 wwwroot\favicon.ico
-wwwroot\index.html
+wwwroot\img\marathon.webp
+wwwroot\img\trail.webp
 wwwroot\js\mainscript.js
 wwwroot\js\site.js
 wwwroot\lib\bootstrap\dist\css\bootstrap.css
@@ -60,6 +61,3 @@ wwwroot\lib\jquery-validation\LICENSE.md
 wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
 wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
 wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt
-wwwroot\marathon.webp
-wwwroot\secondpage.html
-wwwroot\trail.webp

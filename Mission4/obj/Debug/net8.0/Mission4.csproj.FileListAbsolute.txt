@@ -29,3 +29,5 @@ C:\Users\jakeb\source\repos\Mission4\Mission4\obj\Debug\net8.0\Mission4.pdb
 C:\Users\jakeb\source\repos\Mission4\Mission4\obj\Debug\net8.0\Mission4.genruntimeconfig.cache
 C:\Users\jakeb\source\repos\Mission4\Mission4\obj\Debug\net8.0\ref\Mission4.dll
 C:\Users\jakeb\source\repos\Mission4\Mission4\obj\Debug\net8.0\Mission4.sourcelink.json
+C:\Users\jakeb\source\repos\Mission4\Mission4\obj\Debug\net8.0\Mission4.RazorAssemblyInfo.cache
+C:\Users\jakeb\source\repos\Mission4\Mission4\obj\Debug\net8.0\Mission4.RazorAssemblyInfo.cs

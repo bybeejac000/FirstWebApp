@@ -1,0 +1,21 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Second Page</title>
+    <link href="~/lib/bootstrap/dist/css/bootstrap.css" rel="stylesheet" />
+    <script src="~/lib/jquery/dist/jquery.js"></script>
+    <script src="~/js/mainscript.js"></script>
+    <meta name="viewport" content="width=device-width" />
+   
+
+    <title>@ViewBag.Title</title>
+</head>
+<body>
+    <button onclick="window.location.href='@Url.Action("Index", "sub")'">Home</button>
+    <div>
+        @RenderBody()
+    </div>
+</body>
+</html>

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "K0797LmoHzNIuECudATg/paqJF4yU9XeOC5sSQtrE9k=",
+  "Hash": "Q/nSUVChj/Uqc/a+RYKyqLD/1Q+ncMk4Ruda/p18D/o=",
   "Source": "Mission4",
   "BasePath": "_content/Mission4",
   "Mode": "Default",
@@ -59,12 +59,12 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\jakeb\\source\\repos\\Mission4\\Mission4\\wwwroot\\index.html",
+      "Identity": "C:\\Users\\jakeb\\source\\repos\\Mission4\\Mission4\\wwwroot\\img\\marathon.webp",
       "SourceId": "Mission4",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\jakeb\\source\\repos\\Mission4\\Mission4\\wwwroot\\",
       "BasePath": "_content/Mission4",
-      "RelativePath": "index#[.{fingerprint}]?.html",
+      "RelativePath": "img/marathon#[.{fingerprint}]?.webp",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -73,11 +73,32 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "9g0q9g5fx9",
-      "Integrity": "N4KmpIkKmuCkG85AaKiwXnUl4KiX5VIJq3ZPRPsYHjU=",
+      "Fingerprint": "5erbe61o2n",
+      "Integrity": "bRVyOeNzRWFRHC6xgpzcfWg9q/F9L2ykn/7/mplA+yc=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\index.html"
+      "OriginalItemSpec": "wwwroot\\img\\marathon.webp"
+    },
+    {
+      "Identity": "C:\\Users\\jakeb\\source\\repos\\Mission4\\Mission4\\wwwroot\\img\\trail.webp",
+      "SourceId": "Mission4",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jakeb\\source\\repos\\Mission4\\Mission4\\wwwroot\\",
+      "BasePath": "_content/Mission4",
+      "RelativePath": "img/trail#[.{fingerprint}]?.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "eqt0mnweig",
+      "Integrity": "elcbu0G/A07utz48UH7I19zWWFD5hVPjjFGhZLKZ7ho=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\trail.webp"
     },
     {
       "Identity": "C:\\Users\\jakeb\\source\\repos\\Mission4\\Mission4\\wwwroot\\js\\mainscript.js",
@@ -1317,69 +1338,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
-    },
-    {
-      "Identity": "C:\\Users\\jakeb\\source\\repos\\Mission4\\Mission4\\wwwroot\\marathon.webp",
-      "SourceId": "Mission4",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jakeb\\source\\repos\\Mission4\\Mission4\\wwwroot\\",
-      "BasePath": "_content/Mission4",
-      "RelativePath": "marathon#[.{fingerprint}]?.webp",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "5erbe61o2n",
-      "Integrity": "bRVyOeNzRWFRHC6xgpzcfWg9q/F9L2ykn/7/mplA+yc=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\marathon.webp"
-    },
-    {
-      "Identity": "C:\\Users\\jakeb\\source\\repos\\Mission4\\Mission4\\wwwroot\\secondpage.html",
-      "SourceId": "Mission4",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jakeb\\source\\repos\\Mission4\\Mission4\\wwwroot\\",
-      "BasePath": "_content/Mission4",
-      "RelativePath": "secondpage#[.{fingerprint}]?.html",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "8ny8ef2lx1",
-      "Integrity": "ZCv76iTrs1o31WveNxpACl4ApFTPzKx7N89AkMKOOcs=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\secondpage.html"
-    },
-    {
-      "Identity": "C:\\Users\\jakeb\\source\\repos\\Mission4\\Mission4\\wwwroot\\trail.webp",
-      "SourceId": "Mission4",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jakeb\\source\\repos\\Mission4\\Mission4\\wwwroot\\",
-      "BasePath": "_content/Mission4",
-      "RelativePath": "trail#[.{fingerprint}]?.webp",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "eqt0mnweig",
-      "Integrity": "elcbu0G/A07utz48UH7I19zWWFD5hVPjjFGhZLKZ7ho=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\trail.webp"
     }
   ],
   "Endpoints": [
@@ -1548,8 +1506,8 @@
       ]
     },
     {
-      "Route": "index.9g0q9g5fx9.html",
-      "AssetFile": "C:\\Users\\jakeb\\source\\repos\\Mission4\\Mission4\\wwwroot\\index.html",
+      "Route": "img/marathon.5erbe61o2n.webp",
+      "AssetFile": "C:\\Users\\jakeb\\source\\repos\\Mission4\\Mission4\\wwwroot\\img\\marathon.webp",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1558,19 +1516,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2041"
+          "Value": "384868"
         },
         {
           "Name": "Content-Type",
-          "Value": "text/html"
+          "Value": "image/webp"
         },
         {
           "Name": "ETag",
-          "Value": "\"N4KmpIkKmuCkG85AaKiwXnUl4KiX5VIJq3ZPRPsYHjU=\""
+          "Value": "\"bRVyOeNzRWFRHC6xgpzcfWg9q/F9L2ykn/7/mplA+yc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 05 Feb 2025 21:00:44 GMT"
+          "Value": "Wed, 05 Feb 2025 16:10:39 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1580,21 +1538,21 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "9g0q9g5fx9"
+          "Value": "5erbe61o2n"
         },
         {
           "Name": "label",
-          "Value": "index.html"
+          "Value": "img/marathon.webp"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-N4KmpIkKmuCkG85AaKiwXnUl4KiX5VIJq3ZPRPsYHjU="
+          "Value": "sha256-bRVyOeNzRWFRHC6xgpzcfWg9q/F9L2ykn/7/mplA+yc="
         }
       ]
     },
     {
-      "Route": "index.html",
-      "AssetFile": "C:\\Users\\jakeb\\source\\repos\\Mission4\\Mission4\\wwwroot\\index.html",
+      "Route": "img/marathon.webp",
+      "AssetFile": "C:\\Users\\jakeb\\source\\repos\\Mission4\\Mission4\\wwwroot\\img\\marathon.webp",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1603,29 +1561,111 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2041"
+          "Value": "384868"
         },
         {
           "Name": "Content-Type",
-          "Value": "text/html"
+          "Value": "image/webp"
         },
         {
           "Name": "ETag",
-          "Value": "\"N4KmpIkKmuCkG85AaKiwXnUl4KiX5VIJq3ZPRPsYHjU=\""
+          "Value": "\"bRVyOeNzRWFRHC6xgpzcfWg9q/F9L2ykn/7/mplA+yc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 05 Feb 2025 21:00:44 GMT"
+          "Value": "Wed, 05 Feb 2025 16:10:39 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "no-cache"
+          "Value": "max-age=3600, must-revalidate"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-N4KmpIkKmuCkG85AaKiwXnUl4KiX5VIJq3ZPRPsYHjU="
+          "Value": "sha256-bRVyOeNzRWFRHC6xgpzcfWg9q/F9L2ykn/7/mplA+yc="
+        }
+      ]
+    },
+    {
+      "Route": "img/trail.eqt0mnweig.webp",
+      "AssetFile": "C:\\Users\\jakeb\\source\\repos\\Mission4\\Mission4\\wwwroot\\img\\trail.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "539434"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"elcbu0G/A07utz48UH7I19zWWFD5hVPjjFGhZLKZ7ho=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 05 Feb 2025 16:09:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "eqt0mnweig"
+        },
+        {
+          "Name": "label",
+          "Value": "img/trail.webp"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-elcbu0G/A07utz48UH7I19zWWFD5hVPjjFGhZLKZ7ho="
+        }
+      ]
+    },
+    {
+      "Route": "img/trail.webp",
+      "AssetFile": "C:\\Users\\jakeb\\source\\repos\\Mission4\\Mission4\\wwwroot\\img\\trail.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "539434"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"elcbu0G/A07utz48UH7I19zWWFD5hVPjjFGhZLKZ7ho=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 05 Feb 2025 16:09:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-elcbu0G/A07utz48UH7I19zWWFD5hVPjjFGhZLKZ7ho="
         }
       ]
     },
@@ -6464,252 +6504,6 @@
         {
           "Name": "integrity",
           "Value": "sha256-16aFlqtpsG9RyieKZUUUjkJpqTgcJtWXwT312I4Iz1s="
-        }
-      ]
-    },
-    {
-      "Route": "marathon.5erbe61o2n.webp",
-      "AssetFile": "C:\\Users\\jakeb\\source\\repos\\Mission4\\Mission4\\wwwroot\\marathon.webp",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "384868"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/webp"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"bRVyOeNzRWFRHC6xgpzcfWg9q/F9L2ykn/7/mplA+yc=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 05 Feb 2025 16:10:39 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "5erbe61o2n"
-        },
-        {
-          "Name": "label",
-          "Value": "marathon.webp"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-bRVyOeNzRWFRHC6xgpzcfWg9q/F9L2ykn/7/mplA+yc="
-        }
-      ]
-    },
-    {
-      "Route": "marathon.webp",
-      "AssetFile": "C:\\Users\\jakeb\\source\\repos\\Mission4\\Mission4\\wwwroot\\marathon.webp",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "384868"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/webp"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"bRVyOeNzRWFRHC6xgpzcfWg9q/F9L2ykn/7/mplA+yc=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 05 Feb 2025 16:10:39 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-bRVyOeNzRWFRHC6xgpzcfWg9q/F9L2ykn/7/mplA+yc="
-        }
-      ]
-    },
-    {
-      "Route": "secondpage.8ny8ef2lx1.html",
-      "AssetFile": "C:\\Users\\jakeb\\source\\repos\\Mission4\\Mission4\\wwwroot\\secondpage.html",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "883"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/html"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"ZCv76iTrs1o31WveNxpACl4ApFTPzKx7N89AkMKOOcs=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 05 Feb 2025 21:25:50 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "8ny8ef2lx1"
-        },
-        {
-          "Name": "label",
-          "Value": "secondpage.html"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-ZCv76iTrs1o31WveNxpACl4ApFTPzKx7N89AkMKOOcs="
-        }
-      ]
-    },
-    {
-      "Route": "secondpage.html",
-      "AssetFile": "C:\\Users\\jakeb\\source\\repos\\Mission4\\Mission4\\wwwroot\\secondpage.html",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "883"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/html"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"ZCv76iTrs1o31WveNxpACl4ApFTPzKx7N89AkMKOOcs=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 05 Feb 2025 21:25:50 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-ZCv76iTrs1o31WveNxpACl4ApFTPzKx7N89AkMKOOcs="
-        }
-      ]
-    },
-    {
-      "Route": "trail.eqt0mnweig.webp",
-      "AssetFile": "C:\\Users\\jakeb\\source\\repos\\Mission4\\Mission4\\wwwroot\\trail.webp",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "539434"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/webp"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"elcbu0G/A07utz48UH7I19zWWFD5hVPjjFGhZLKZ7ho=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 05 Feb 2025 16:09:21 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "eqt0mnweig"
-        },
-        {
-          "Name": "label",
-          "Value": "trail.webp"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-elcbu0G/A07utz48UH7I19zWWFD5hVPjjFGhZLKZ7ho="
-        }
-      ]
-    },
-    {
-      "Route": "trail.webp",
-      "AssetFile": "C:\\Users\\jakeb\\source\\repos\\Mission4\\Mission4\\wwwroot\\trail.webp",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "539434"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/webp"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"elcbu0G/A07utz48UH7I19zWWFD5hVPjjFGhZLKZ7ho=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 05 Feb 2025 16:09:21 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-elcbu0G/A07utz48UH7I19zWWFD5hVPjjFGhZLKZ7ho="
         }
       ]
     }

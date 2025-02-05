@@ -9,8 +9,12 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\jakeb\\source\\repos\\Mission4\\Mission4\\wwwroot\\index.html",
-      "PackagePath": "staticwebassets\\index.html"
+      "Id": "C:\\Users\\jakeb\\source\\repos\\Mission4\\Mission4\\wwwroot\\img\\marathon.webp",
+      "PackagePath": "staticwebassets\\img\\marathon.webp"
+    },
+    {
+      "Id": "C:\\Users\\jakeb\\source\\repos\\Mission4\\Mission4\\wwwroot\\img\\trail.webp",
+      "PackagePath": "staticwebassets\\img\\trail.webp"
     },
     {
       "Id": "C:\\Users\\jakeb\\source\\repos\\Mission4\\Mission4\\wwwroot\\js\\mainscript.js",
@@ -247,18 +251,6 @@
     {
       "Id": "C:\\Users\\jakeb\\source\\repos\\Mission4\\Mission4\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
-    },
-    {
-      "Id": "C:\\Users\\jakeb\\source\\repos\\Mission4\\Mission4\\wwwroot\\marathon.webp",
-      "PackagePath": "staticwebassets\\marathon.webp"
-    },
-    {
-      "Id": "C:\\Users\\jakeb\\source\\repos\\Mission4\\Mission4\\wwwroot\\secondpage.html",
-      "PackagePath": "staticwebassets\\secondpage.html"
-    },
-    {
-      "Id": "C:\\Users\\jakeb\\source\\repos\\Mission4\\Mission4\\wwwroot\\trail.webp",
-      "PackagePath": "staticwebassets\\trail.webp"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Mission4.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
