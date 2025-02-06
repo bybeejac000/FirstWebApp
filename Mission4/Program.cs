@@ -2,6 +2,8 @@ var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddControllersWithViews();
 
+
+//setup the server file
 var app = builder.Build();
 
 app.UseHttpsRedirection();
