@@ -3,7 +3,7 @@
 <html>
 <head>
     <meta charset="utf-8" />
-    <title>Second Page</title>
+    <title>Running</title>
     <link href="~/lib/bootstrap/dist/css/bootstrap.css" rel="stylesheet" />
     <script src="~/lib/jquery/dist/jquery.js"></script>
     <script src="~/js/mainscript.js"></script>
@@ -12,10 +12,16 @@
 
     <title>@ViewBag.Title</title>
 </head>
+<header>
+    <h1>Jake Bybee's Running Page</h1>
+</header>
 <body>
     <button onclick="window.location.href='@Url.Action("Index", "sub")'">Home</button>
     <div>
         @RenderBody()
     </div>
 </body>
+<footer>
+    <p>&copy; 2025 Jake Bybee. All Rights Reserved.</p>
+</footer>
 </html>
